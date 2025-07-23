@@ -1,0 +1,19 @@
+﻿@model MarketOtomasyonSistemi.Models.Entity.TBLKATEGORİLER
+@{
+    ViewBag.Title = "Ekle";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+@using (Html.BeginForm("Ekle", "Kategori", FormMethod.Post))
+            {
+    <div>
+
+        @Html.LabelFor(x => x.KATEGORIAD)
+        @Html.TextBoxFor(x => x.KATEGORIAD, new {@class="form-control"})
+        @Html.ValidationMessageFor(m => m.KATEGORIAD, "", new {@style="color:red"} )
+        
+    </div>
+    <button class="btn btn-primary" type="submit">Ekle</button>
+
+            }
+    
+    

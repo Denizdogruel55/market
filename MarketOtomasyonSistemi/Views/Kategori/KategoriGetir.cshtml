@@ -1,0 +1,19 @@
+﻿@model MarketOtomasyonSistemi.Models.Entity.TBLKATEGORİLER
+@{
+    ViewBag.Title = "KategoriGetir";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+@using (Html.BeginForm("Guncelle", "Kategori", FormMethod.Post))
+{
+    <div class="mb-3" style="">
+        @Html.LabelFor(x => x.KATEGORIID)
+        @Html.TextBoxFor(x => x.KATEGORIID, new { @class = "form-control" })
+    </div>
+    <div class="mb-3">
+        @Html.LabelFor(x => x.KATEGORIAD)
+        @Html.TextBoxFor(x => x.KATEGORIAD, new { @class = "form-control" })
+    </div>
+    <button class="btn btn-warning" type="submit">Güncelle</button>
+}
+

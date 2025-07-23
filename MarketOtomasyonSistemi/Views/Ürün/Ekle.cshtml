@@ -1,0 +1,26 @@
+﻿@model MarketOtomasyonSistemi.Models.Entity.TBLURUNLER
+@{
+    ViewBag.Title = "Ekle";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<form method="post">
+    <div class=" mb-3">
+        <label>ÜrünAD:</label>
+        <input type="text" class="form-control" name="URUNAD" required />
+    </div>
+    <div class=" mb-3">
+        <label>Marka:</label>
+        <input type="text" class="form-control" name="MARKA" required />
+    </div>
+    <div class=" mb-3">
+        <label>Kategori:</label>
+        @Html.DropDownListFor(x=>x.TBLKATEGORİLER.KATEGORIID, (List<SelectListItem>)ViewBag.dgr1, new { @class = "form-control" })
+   </div>
+        <div class=" mb-3">
+        <label>FİYAT:</label>
+        <input type="text" class="form-control" name="Fiyat" value="" />
+    </div>
+    <button class="btn btn-primary" type="submit">Ekle</button>
+</form>
+

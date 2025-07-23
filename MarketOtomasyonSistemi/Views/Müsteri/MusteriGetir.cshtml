@@ -1,0 +1,23 @@
+﻿@model MarketOtomasyonSistemi.Models.Entity.TBLMUSTERILER
+@{
+    ViewBag.Title = "MusteriGetir";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+@using (Html.BeginForm("Guncelle", "Müsteri", FormMethod.Post))
+{
+    <div>
+        @Html.LabelFor(x => x.MUSTERID)
+        @Html.TextBoxFor(x => x.MUSTERID, new { @class = "form-control" })
+    </div>
+    <div>
+        @Html.LabelFor(x => x.MUSTERIAD)
+        @Html.TextBoxFor(x => x.MUSTERIAD, new { @class = "form-control" })
+    </div>
+    <div>
+        @Html.LabelFor(x => x.MUSTERISOYAD)
+        @Html.TextBoxFor(x => x.MUSTERISOYAD, new { @class = "form-control" })
+    </div>
+    <button class="btn btn-warning" type="submit">Güncelle</button>
+}
+

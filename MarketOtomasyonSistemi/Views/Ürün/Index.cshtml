@@ -1,0 +1,35 @@
+﻿@using MarketOtomasyonSistemi.Models.Entity;
+@model List<TBLURUNLER>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<table class="table table-bordered">
+    <tr>
+        <th>ID</th>
+        <th>ÜRÜN ADI</th>
+        <th>Marka</th>
+        <th>Kategori</th>
+        <th>Fiyat</th>
+        <th>Sil</th>
+        <th>Güncelle</th>
+        
+    </tr>
+    <tbody>
+        @foreach (var urun in Model)
+        {
+            <tr>
+                <td>@urun.URUNID</td>
+                <td>@urun.URUNAD</td>
+                <td>@urun.MARKA</td>
+                <td>@urun.TBLKATEGORİLER.KATEGORIAD</td>
+                <td>@urun.Fiyat TL</td>
+                <td><a href="/Ürün/Sil/@urun.URUNID" class="btn btn-danger">Sil</a></td>
+                <td><a href="/Ürün/ÜrünGetir/@urun.URUNID" class="btn btn-warning">Güncelle</a></td>
+            </tr>
+            
+        }
+    </tbody>
+</table>
+<a href="/Ürün/Ekle" class="btn btn-primary">Ürün Ekle</a>

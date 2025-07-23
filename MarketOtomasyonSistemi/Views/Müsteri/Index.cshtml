@@ -1,0 +1,38 @@
+﻿@using MarketOtomasyonSistemi.Models.Entity;
+@model List<TBLMUSTERILER>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<table class="table table-bordered">
+    <tr>
+        <th>ID</th>
+        <th>AD</th>
+        <th>Soyad</th>
+        <th>Sil</th>
+        <th>Güncelle</th>
+        <th>Alert</th>
+    </tr>
+    <tbody>
+        @foreach (var mus in Model)
+        {
+            <tr>
+                <th>@mus.MUSTERID</th>
+                <td>@mus.MUSTERIAD</td>
+                <td>@mus.MUSTERISOYAD</td>
+                <td><a href="/Müsteri/Sil/@mus.MUSTERID" class="btn btn-danger">Sil</a></td>
+                <td><a href="/Müsteri/MusteriGetir/@mus.MUSTERID" class="btn btn-warning">Güncelle</a></td>
+                <td>
+                    @Html.ActionLink("Sil Buton", "Sil", new {id= mus.MUSTERID }, new
+                    {
+                        @class = "btn btn-warning",
+                        onclick = "return confirm('Silmek istiyormusunuz?')"
+                    })
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+<a href="/Müsteri/Ekle" class="btn btn-primary">Müşteri Ekle</a>
+

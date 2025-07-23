@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83689FF3-C81B-44A7-A801-5BA5D08A29D2}|MarketOtomasyonSistemi\\MarketOtomasyonSistemi.csproj|c:\\users\\deniz\\desktop\\mvcproje\\marketotomasyonsistemi\\marketotomasyonsistemi\\views\\sat\u0131s\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83689FF3-C81B-44A7-A801-5BA5D08A29D2}|MarketOtomasyonSistemi\\MarketOtomasyonSistemi.csproj|solutionrelative:marketotomasyonsistemi\\views\\sat\u0131s\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83689FF3-C81B-44A7-A801-5BA5D08A29D2}|MarketOtomasyonSistemi\\MarketOtomasyonSistemi.csproj|C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Views\\Shared\\_MainLayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83689FF3-C81B-44A7-A801-5BA5D08A29D2}|MarketOtomasyonSistemi\\MarketOtomasyonSistemi.csproj|solutionrelative:MarketOtomasyonSistemi\\Views\\Shared\\_MainLayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83689FF3-C81B-44A7-A801-5BA5D08A29D2}|MarketOtomasyonSistemi\\MarketOtomasyonSistemi.csproj|C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Controllers\\Sat\u0131sController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83689FF3-C81B-44A7-A801-5BA5D08A29D2}|MarketOtomasyonSistemi\\MarketOtomasyonSistemi.csproj|solutionrelative:MarketOtomasyonSistemi\\Controllers\\Sat\u0131sController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83689FF3-C81B-44A7-A801-5BA5D08A29D2}|MarketOtomasyonSistemi\\MarketOtomasyonSistemi.csproj|C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Controllers\\M\u00FCsteriController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83689FF3-C81B-44A7-A801-5BA5D08A29D2}|MarketOtomasyonSistemi\\MarketOtomasyonSistemi.csproj|solutionrelative:MarketOtomasyonSistemi\\Controllers\\M\u00FCsteriController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83689FF3-C81B-44A7-A801-5BA5D08A29D2}|MarketOtomasyonSistemi\\MarketOtomasyonSistemi.csproj|C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Views\\M\u00FCsteri\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83689FF3-C81B-44A7-A801-5BA5D08A29D2}|MarketOtomasyonSistemi\\MarketOtomasyonSistemi.csproj|solutionrelative:MarketOtomasyonSistemi\\Views\\M\u00FCsteri\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83689FF3-C81B-44A7-A801-5BA5D08A29D2}|MarketOtomasyonSistemi\\MarketOtomasyonSistemi.csproj|C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Views\\M\u00FCsteri\\Ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83689FF3-C81B-44A7-A801-5BA5D08A29D2}|MarketOtomasyonSistemi\\MarketOtomasyonSistemi.csproj|solutionrelative:MarketOtomasyonSistemi\\Views\\M\u00FCsteri\\Ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83689FF3-C81B-44A7-A801-5BA5D08A29D2}|MarketOtomasyonSistemi\\MarketOtomasyonSistemi.csproj|C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Views\\Kategori\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83689FF3-C81B-44A7-A801-5BA5D08A29D2}|MarketOtomasyonSistemi\\MarketOtomasyonSistemi.csproj|solutionrelative:MarketOtomasyonSistemi\\Views\\Kategori\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83689FF3-C81B-44A7-A801-5BA5D08A29D2}|MarketOtomasyonSistemi\\MarketOtomasyonSistemi.csproj|C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83689FF3-C81B-44A7-A801-5BA5D08A29D2}|MarketOtomasyonSistemi\\MarketOtomasyonSistemi.csproj|solutionrelative:MarketOtomasyonSistemi\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83689FF3-C81B-44A7-A801-5BA5D08A29D2}|MarketOtomasyonSistemi\\MarketOtomasyonSistemi.csproj|C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Views\\\u00DCr\u00FCn\\Ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83689FF3-C81B-44A7-A801-5BA5D08A29D2}|MarketOtomasyonSistemi\\MarketOtomasyonSistemi.csproj|solutionrelative:MarketOtomasyonSistemi\\Views\\\u00DCr\u00FCn\\Ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83689FF3-C81B-44A7-A801-5BA5D08A29D2}|MarketOtomasyonSistemi\\MarketOtomasyonSistemi.csproj|C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Models\\Entity\\TBLURUNLER.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83689FF3-C81B-44A7-A801-5BA5D08A29D2}|MarketOtomasyonSistemi\\MarketOtomasyonSistemi.csproj|solutionrelative:MarketOtomasyonSistemi\\Models\\Entity\\TBLURUNLER.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83689FF3-C81B-44A7-A801-5BA5D08A29D2}|MarketOtomasyonSistemi\\MarketOtomasyonSistemi.csproj|C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Controllers\\KategoriController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83689FF3-C81B-44A7-A801-5BA5D08A29D2}|MarketOtomasyonSistemi\\MarketOtomasyonSistemi.csproj|solutionrelative:MarketOtomasyonSistemi\\Controllers\\KategoriController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83689FF3-C81B-44A7-A801-5BA5D08A29D2}|MarketOtomasyonSistemi\\MarketOtomasyonSistemi.csproj|C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Views\\\u00DCr\u00FCn\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83689FF3-C81B-44A7-A801-5BA5D08A29D2}|MarketOtomasyonSistemi\\MarketOtomasyonSistemi.csproj|solutionrelative:MarketOtomasyonSistemi\\Views\\\u00DCr\u00FCn\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83689FF3-C81B-44A7-A801-5BA5D08A29D2}|MarketOtomasyonSistemi\\MarketOtomasyonSistemi.csproj|C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Views\\\u00DCr\u00FCn\\\u00DCr\u00FCnGetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83689FF3-C81B-44A7-A801-5BA5D08A29D2}|MarketOtomasyonSistemi\\MarketOtomasyonSistemi.csproj|solutionrelative:MarketOtomasyonSistemi\\Views\\\u00DCr\u00FCn\\\u00DCr\u00FCnGetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83689FF3-C81B-44A7-A801-5BA5D08A29D2}|MarketOtomasyonSistemi\\MarketOtomasyonSistemi.csproj|C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Controllers\\\u00DCr\u00FCnController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83689FF3-C81B-44A7-A801-5BA5D08A29D2}|MarketOtomasyonSistemi\\MarketOtomasyonSistemi.csproj|solutionrelative:MarketOtomasyonSistemi\\Controllers\\\u00DCr\u00FCnController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_MainLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Views\\Shared\\_MainLayout.cshtml",
+              "RelativeDocumentMoniker": "MarketOtomasyonSistemi\\Views\\Shared\\_MainLayout.cshtml",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Views\\Shared\\_MainLayout.cshtml",
+              "RelativeToolTip": "MarketOtomasyonSistemi\\Views\\Shared\\_MainLayout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T11:23:46.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Views\\Sat\u0131s\\Index.cshtml",
+              "RelativeDocumentMoniker": "MarketOtomasyonSistemi\\Views\\Sat\u0131s\\Index.cshtml",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Views\\Sat\u0131s\\Index.cshtml",
+              "RelativeToolTip": "MarketOtomasyonSistemi\\Views\\Sat\u0131s\\Index.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwCcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T10:42:01.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sat\u0131sController.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Controllers\\Sat\u0131sController.cs",
+              "RelativeDocumentMoniker": "MarketOtomasyonSistemi\\Controllers\\Sat\u0131sController.cs",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Controllers\\Sat\u0131sController.cs",
+              "RelativeToolTip": "MarketOtomasyonSistemi\\Controllers\\Sat\u0131sController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowBwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:41:55.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "M\u00FCsteriController.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Controllers\\M\u00FCsteriController.cs",
+              "RelativeDocumentMoniker": "MarketOtomasyonSistemi\\Controllers\\M\u00FCsteriController.cs",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Controllers\\M\u00FCsteriController.cs",
+              "RelativeToolTip": "MarketOtomasyonSistemi\\Controllers\\M\u00FCsteriController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwCQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:29:39.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Views\\M\u00FCsteri\\Index.cshtml",
+              "RelativeDocumentMoniker": "MarketOtomasyonSistemi\\Views\\M\u00FCsteri\\Index.cshtml",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Views\\M\u00FCsteri\\Index.cshtml",
+              "RelativeToolTip": "MarketOtomasyonSistemi\\Views\\M\u00FCsteri\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T10:25:50.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ekle.cshtml",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Views\\M\u00FCsteri\\Ekle.cshtml",
+              "RelativeDocumentMoniker": "MarketOtomasyonSistemi\\Views\\M\u00FCsteri\\Ekle.cshtml",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Views\\M\u00FCsteri\\Ekle.cshtml",
+              "RelativeToolTip": "MarketOtomasyonSistemi\\Views\\M\u00FCsteri\\Ekle.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T09:10:15.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Views\\Kategori\\Index.cshtml",
+              "RelativeDocumentMoniker": "MarketOtomasyonSistemi\\Views\\Kategori\\Index.cshtml",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Views\\Kategori\\Index.cshtml",
+              "RelativeToolTip": "MarketOtomasyonSistemi\\Views\\Kategori\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T08:56:23.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MarketOtomasyonSistemi\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MarketOtomasyonSistemi\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T11:32:56.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ekle.cshtml",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Views\\\u00DCr\u00FCn\\Ekle.cshtml",
+              "RelativeDocumentMoniker": "MarketOtomasyonSistemi\\Views\\\u00DCr\u00FCn\\Ekle.cshtml",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Views\\\u00DCr\u00FCn\\Ekle.cshtml",
+              "RelativeToolTip": "MarketOtomasyonSistemi\\Views\\\u00DCr\u00FCn\\Ekle.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T08:46:05.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TBLURUNLER.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Models\\Entity\\TBLURUNLER.cs",
+              "RelativeDocumentMoniker": "MarketOtomasyonSistemi\\Models\\Entity\\TBLURUNLER.cs",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Models\\Entity\\TBLURUNLER.cs",
+              "RelativeToolTip": "MarketOtomasyonSistemi\\Models\\Entity\\TBLURUNLER.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:45:09.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KategoriController.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Controllers\\KategoriController.cs",
+              "RelativeDocumentMoniker": "MarketOtomasyonSistemi\\Controllers\\KategoriController.cs",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Controllers\\KategoriController.cs",
+              "RelativeToolTip": "MarketOtomasyonSistemi\\Controllers\\KategoriController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:31:03.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Views\\\u00DCr\u00FCn\\Index.cshtml",
+              "RelativeDocumentMoniker": "MarketOtomasyonSistemi\\Views\\\u00DCr\u00FCn\\Index.cshtml",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Views\\\u00DCr\u00FCn\\Index.cshtml",
+              "RelativeToolTip": "MarketOtomasyonSistemi\\Views\\\u00DCr\u00FCn\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T07:07:20.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "\u00DCr\u00FCnGetir.cshtml",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Views\\\u00DCr\u00FCn\\\u00DCr\u00FCnGetir.cshtml",
+              "RelativeDocumentMoniker": "MarketOtomasyonSistemi\\Views\\\u00DCr\u00FCn\\\u00DCr\u00FCnGetir.cshtml",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Views\\\u00DCr\u00FCn\\\u00DCr\u00FCnGetir.cshtml",
+              "RelativeToolTip": "MarketOtomasyonSistemi\\Views\\\u00DCr\u00FCn\\\u00DCr\u00FCnGetir.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T07:05:20.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "\u00DCr\u00FCnController.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Controllers\\\u00DCr\u00FCnController.cs",
+              "RelativeDocumentMoniker": "MarketOtomasyonSistemi\\Controllers\\\u00DCr\u00FCnController.cs",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\MVCProje\\MarketOtomasyonSistemi\\MarketOtomasyonSistemi\\Controllers\\\u00DCr\u00FCnController.cs",
+              "RelativeToolTip": "MarketOtomasyonSistemi\\Controllers\\\u00DCr\u00FCnController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAuwD0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:04:15.16Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

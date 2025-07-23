@@ -1,0 +1,40 @@
+﻿@model MarketOtomasyonSistemi.Models.Entity.TBLSATISLAR
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+ <button class="btn btn-primary" data-toggle="modal" data-target="#model1">
+     Satıs yap
+ </button>
+<div class="modal" id="model1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 class="modal-title">Satis Baslik</h2>
+            </div>
+            <div class="modal-body">
+                <form method="post" action="/Satıs/SatısEkle">
+                    <div>
+                        <label>Ürün AD</label>
+                        @Html.TextBoxFor(x => x.ÜRÜN, new { @class = "form-control" })
+                    </div>
+                    <div>
+                        <label>Müsteri</label>
+                        @Html.TextBoxFor(x => x.MUSTERİ, new { @class = "form-control" })
+                    </div>
+                    <div>
+                        <label>Adet</label>
+                        @Html.TextBoxFor(x => x.ADET, new { @class = "form-control" })
+                    </div>
+                    <div>
+                        <label>Fiyat</label>
+                        @Html.TextBoxFor(x => x.Fiyat, new { @class = "form-control" })
+                    </div>
+                    <button class="btn btn-info" type="submit">Satıs Ekle</button>
+                    <button class="btn btn-danger" data-dismiss="modal" type="submit">Vazgec</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div> 

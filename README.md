@@ -3,6 +3,7 @@
 Bu proje, **.NET Framework MVC** ile geliştirilmiş bir **Market Yönetim Sistemidir**.  
 Projede **MSSQL** veritabanı kullanılmış olup, **DB First** yaklaşımı ile Entity Framework üzerinden veri erişimi sağlanmaktadır.  
 Arayüz tarafında **Bootstrap 5 Modal** pencereleri ve **JavaScript alert** kutuları kullanılmıştır.  
+JavaScript kodları ayrıca dış bir dosyada değil, doğrudan View içerisine entegre edilmiştir.  
 
 ---
 
@@ -11,7 +12,7 @@ Arayüz tarafında **Bootstrap 5 Modal** pencereleri ve **JavaScript alert** kut
 - Entity Framework (DB First yaklaşımı)
 - Microsoft SQL Server (MSSQL)
 - Bootstrap 5 (UI & Modal)
-- JavaScript (Alert, doğrulama işlemleri)
+- JavaScript (View içine entegre edilmiş alert & doğrulama)
 
 ---
 
@@ -31,10 +32,7 @@ MarketYonetimSistemi/
 │   └── Urun/
 │   └── Musteri/
 │   └── Satis/
-│── Scripts/
-│   └── custom.js
 │── Content/
 │   └── bootstrap.min.css
 │── Global.asax
 │── Web.config
-
